@@ -1,5 +1,4 @@
-# Artificial Intelligence Based Decision Making for Expert Systems-
-This repo explores my MSC Data Science research work on Artificial Intelligence Based Decision Making for Expert Systems. 
+# Supervised Machine Learning for Text Classification 
 
 **Business Understanding**
 The business under review is a UK-based commercial MRO (Maintenance, Repair, and Overhaul) provider in the Aerospace Industry which is faced with the challenge of understanding how its data texts be analysed to discover patterns, in this case, the fault notification and maintenance documents. The aim here is to answer three major business questions which are:
