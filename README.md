@@ -1,4 +1,4 @@
-# Text Classification for Fault Classification and Maintennance Prediction
+# Text Classification for Fault Classification and Maintenance Prediction
 
 **Business Understanding**
 The business under review is a UK-based commercial MRO (Maintenance, Repair, and Overhaul) provider in the Aerospace Industry which is faced with the challenge of understanding how its customers' complaints data can be analysed to discover patterns. The aim here is to answer three major business questions which are:
